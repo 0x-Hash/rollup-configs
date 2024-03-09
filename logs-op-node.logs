@@ -1,0 +1,16 @@
+t=2024-03-09T04:07:19+0000 lvl=info msg=---------------------------------------------------------------------------------------------------------------------------------------------------------
+t=2024-03-09T04:07:19+0000 lvl=info msg=
+t=2024-03-09T04:07:19+0000 lvl=info msg="Loaded most recent local block"      number=0         hash=0x33d5827d470576e0780677f76e73f7d734c88266ae1465311169816e5e2869cb td=0 age=54y11mo3w
+t=2024-03-09T04:07:19+0000 lvl=info msg="Imported new chain segment"          number=1         hash=0xe9c00bd1b6b67a6060fca0ba330f6a790dfe09a1852eea104ef5d62f499e5209 blocks=1 txs=1 mgas=2.025 elapsed="810.582µs" mgasps=2498.383 age=54y11mo3w triedirty="1.24 KiB"
+t=2024-03-09T04:07:19+0000 lvl=info msg="Setting deployed bytecode with immutables" name=Permit2                       address=0x000000000022D473030F116dDEE9F6B43aC78BA3
+t=2024-03-09T04:07:19+0000 lvl=info msg="Set proxy"                           name=OptimismMintableERC20Factory  address=0x4200000000000000000000000000000000000012 implementation=0xc0D3c0d3C0d3c0d3c0D3c0d3c0D3c0D3c0D30012
+t=2024-03-09T04:07:19+0000 lvl=info msg="Setting deployed bytecode with immutables" name=OptimismMintableERC20Factory  address=0xc0D3c0d3C0d3c0d3c0D3c0d3c0D3c0D3c0D30012
+t=2024-03-09T04:07:19+0000 lvl=info msg="Setting deployed bytecode from solc compiler output" name=Safe_v130                     address=0x69f4D1788e39c87893C980c06EdF4b7f686e2938
+t=2024-03-09T04:07:19+0000 lvl=info msg="Setting deployed bytecode from solc compiler output" name=SafeL2_v130                   address=0xfb1bffC9d739B8D520DaF37dF666da4C687191EA
+t=2024-03-09T04:07:19+0000 lvl=info msg="Set proxy"                           name=L2CrossDomainMessenger        address=0x4200000000000000000000000000000000000007 implementation=0xC0d3c0d3c0D3c0D3C0d3C0D3C0D3c0d3c0d30007
+t=2024-03-09T04:07:19+0000 lvl=info msg="Setting deployed bytecode with immutables" name=L2CrossDomainMessenger        address=0xC0d3c0d3c0D3c0D3C0d3C0D3C0D3c0d3c0d30007
+t=2024-03-09T04:07:19+0000 lvl=info msg="Setting storage"                     name=L2CrossDomainMessenger        address=0x4200000000000000000000000000000000000007
+t=2024-03-09T04:07:19+0000 lvl=info msg="Set proxy"                           name=LegacyMessagePasser           address=0x4200000000000000000000000000000000000000 implementation=0xc0D3C0d3C0d3C0D3c0d3C0d3c0D3C0d3c0d30000
+t=2024-03-09T04:07:19+0000 lvl=info msg="Setting deployed bytecode from solc compiler output" name=LegacyMessagePasser           address=0xc0D3C0d3C0d3C0D3c0d3C0d3c0D3C0d3c0d30000
+t=2024-03-09T04:07:19+0000 lvl=info msg="Set proxy"                           name=BaseFeeVault                  address=0x4200000000000000000000000000000000000019 implementation=0xC0d3c0D3c0d3C0D3C0D3C0d3c0D3C0D3c0d30019
+t=2024-03-09T04:07:19+0000 lvl=info msg="Setting deployed bytecode with immutables" name=BaseFeeVault                  address=0xC0d3c0D3c0d3C0D3C0D3C0d3c0D3C0D3c0d30019
